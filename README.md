@@ -2,7 +2,7 @@
 This is a mini python program that will set up disks and implement a well-known recursive algorithm to solve the Tower of Hanoi problem.
 
 ### History
-I initially wrote this program for an assignment in one of my classes in my study (Namely, Data Structures and Algorithms). In the class flashy GUI is not given the priority rather the data structures and algorithms, so forgive my GUI.
+I initially wrote this program as an assignment for one of the courses I was studying at Uni. (Namely, Data Structures and Algorithms). In the class flashy GUI is not given the priority, rather the data structures and algorithms, so forgive my GUI.
 
 ### Usage
 1. Run main.py
